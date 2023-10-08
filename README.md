@@ -13,7 +13,7 @@ cd lofi-rice && chmod +x lofi-rice.sh
 ```
 
 
-![Minion](https://github.com/pepax3/lofi-rice/blob/main/showcase.png?raw=true)
+![Minion](https://github.com/pepax3/lofi-rice/blob/master/showcase.png?raw=true)
 
 # If you like my rice, i would appreciate you buying me a coffee,thanks
 
