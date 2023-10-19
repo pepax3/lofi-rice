@@ -17,5 +17,5 @@ cd lofi-rice && chmod +x lofi-rice.sh
 
 # If you like my rice, i would appreciate you buying me a coffee,thanks
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/pepax3)
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#050404', 'C1C4P7FQI');kofiwidget2.draw();</script> 
 
